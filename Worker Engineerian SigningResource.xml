@@ -2157,7 +2157,7 @@ This cover sheet links your fax to the DocuSign transaction and must be included
 	<data name="DocuSign_DarkenDocumentOverlay">false</data>
 	<data name="DocuSign_DeclineAllow">true</data>
 	<data name="DocuSign_DeclineReasons"></data>
-	<data name="DocuSign_DisableLocationAwareness">false</data>
+	<data name="DocuSign_DisableLocationAwareness">true</data><!--disables the geo location call-->
 	<data name="DocuSign_DisplayMobileSigningNextButton">true</data>
 	<data name="DocuSign_EnablePrintToFedEx">true</data>
 	<data name="DocuSign_FaxAllowForAttachment">false</data>
