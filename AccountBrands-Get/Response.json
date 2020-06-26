@@ -1,0 +1,45 @@
+{
+  "brandCompany": "sample string 1",
+  "brandId": "sample string 2",
+  "brandName": "sample string 3",
+  "colors": [
+    {}
+  ],
+  "errorDetails": {
+    "errorCode": "sample string 1",
+    "message": "sample string 2"
+  },
+  "isOverridingCompanyName": "sample string 4",
+  "isSendingDefault": "sample string 5",
+  "isSigningDefault": "sample string 6",
+  "landingPages": [
+    {}
+  ],
+  "links": [
+    {
+      "linkType": "sample string 1",
+      "urlOrMailTo": "sample string 2",
+      "linkText": "sample string 3",
+      "showLink": "sample string 4"
+    }
+  ],
+  "emailContent": [
+    {
+      "emailContentType": "sample string 1",
+      "content": "sample string 2",
+      "emailToLink": "sample string 3",
+      "linkText": "sample string 4"
+    }
+  ],
+  "logos": {
+    "primary": "sample string 1",
+    "secondary": "sample string 2",
+    "email": "sample string 3"
+  },
+  "resources": {
+    "email": "sample string 1",
+    "sending": "sample string 2",
+    "signing": "sample string 3",
+    "signingCaptive": "sample string 4"
+  }
+}
