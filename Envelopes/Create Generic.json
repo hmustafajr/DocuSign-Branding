@@ -2232,3 +2232,12 @@
   "is21CFRPart11": "sample string 46",
   "disableResponsiveDocument": "sample string 47"
 }
+
+/* Response
+{
+  "envelopeId": "sample string 1",
+  "uri": "sample string 2",
+  "statusDateTime": "sample string 3",
+  "status": "sample string 4"
+}
+*/
