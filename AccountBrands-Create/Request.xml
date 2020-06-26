@@ -1,0 +1,41 @@
+<brand xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.docusign.com/restapi">
+  <brandCompany>sample string 1</brandCompany>
+  <brandId>sample string 2</brandId>
+  <brandName>sample string 3</brandName>
+  <colors>
+    <nameValue />
+  </colors>
+  <emailContent>
+    <brandEmailContent>
+      <content>sample string 2</content>
+      <emailContentType>sample string 1</emailContentType>
+      <emailToLink>sample string 3</emailToLink>
+      <linkText>sample string 4</linkText>
+    </brandEmailContent>
+  </emailContent>
+  <isOverridingCompanyName>sample string 4</isOverridingCompanyName>
+  <isSendingDefault>sample string 5</isSendingDefault>
+  <isSigningDefault>sample string 6</isSigningDefault>
+  <landingPages>
+    <nameValue />
+  </landingPages>
+  <links>
+    <brandLink>
+      <linkText>sample string 3</linkText>
+      <linkType>sample string 1</linkType>
+      <showLink>sample string 4</showLink>
+      <urlOrMailTo>sample string 2</urlOrMailTo>
+    </brandLink>
+  </links>
+  <logos>
+    <email>sample string 3</email>
+    <primary>sample string 1</primary>
+    <secondary>sample string 2</secondary>
+  </logos>
+  <resources>
+    <email>sample string 1</email>
+    <sending>sample string 2</sending>
+    <signing>sample string 3</signing>
+    <signingCaptive>sample string 4</signingCaptive>
+  </resources>
+</brand> 
